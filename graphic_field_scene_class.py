@@ -8,7 +8,7 @@ from graphic_sheep_item_class import *
 
 import field_resources
 
-class FieldGraphsScene(QGraphicsScene):
+class FieldGraphicsScene(QGraphicsScene):
     """this class provides a scene to manage items in the field"""
 
     #constructor
